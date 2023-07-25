@@ -1,0 +1,22 @@
+My License Recommendation:  Apache License 2.0
+
+Here are the following reasons why one should use Apache 2.0 
+
+Permissive and welcoming to contributors: Users are free to use, modify, distribute, and
+sublicense the software under the Apache License 2.0, which is a liberal license. Additionally, 
+it expressly accepts developer contributions, making it a contributor-friendly license.
+
+Patent Grant: The Apache License 2.0, in contrast to certain other licenses, contains a 
+patent grant that shields users from potential software-related patent claims. This clause 
+contributes to the improvement of user and developer security.
+
+Redistribution and Commercial Use: The Apache License 2.0 permits the redistribution of the software, 
+including for commercial uses. This is similar to the MIT License. It allows developers to include the 
+code with private software because it does not mandate that derivative works be open-source.
+
+Compatibility: The GNU General Public License (GPL) version 3 and the Apache License 2.0 are both compatible open-source licenses.
+Developers can include Apache-licensed code into projects with various license requirements because to this interoperability.
+
+Support from the Community: Projects released under the Apache License 2.0 have the support of a sizable community as 
+a result of their widespread adoption and use. Increased collaboration and a larger group of potential contributors may 
+result from this.
